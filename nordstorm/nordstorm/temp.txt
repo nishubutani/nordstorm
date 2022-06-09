@@ -1,0 +1,7 @@
+https://www.nordstrom.com/
+
+link : https://www.nordstrom.com/browse/men/clothing/jeans?campaign=0502denimslim&jid=j012877-18627&cm_sp=merch-_-mens_18627_j012877-_-cathead_0_p00_0&filterByFit=slim-fit
+link2 : https://www.nordstrom.com/browse/men/clothing/jeans?campaign=0502denimslim&jid=j012877-18627&cm_sp=merch-_-mens_18627_j012877-_-cathead_0_p00_0&offset=2&page=4&filterByFit=slim-fit
+
+link_main : https://www.nordstrom.com/browse/men/clothing/jeans?campaign=0502denimslim&jid=j012877-18627&cm_sp=merch-_-mens_18627_j012877-_-cathead_0_p00_0&filterByFit=slim-fit
+
